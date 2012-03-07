@@ -1,11 +1,11 @@
-# revision 25051
+# revision 25506
 # category Package
 # catalog-ctan /macros/latex/contrib/thumbs
-# catalog-date 2012-01-02 14:24:13 +0100
+# catalog-date 2012-02-24 13:31:20 +0100
 # catalog-license lppl1.3
-# catalog-version 1.0k
+# catalog-version 1.0m
 Name:		texlive-thumbs
-Version:	1.0k
+Version:	1.0m
 Release:	1
 Summary:	Create thumb indexes
 Group:		Publishing
