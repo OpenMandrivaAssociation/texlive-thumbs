@@ -6,7 +6,7 @@
 # catalog-version 1.0m
 Name:		texlive-thumbs
 Version:	1.0m
-Release:	2
+Release:	3
 Summary:	Create thumb indexes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumbs
