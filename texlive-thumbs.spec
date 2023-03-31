@@ -1,6 +1,6 @@
 Name:		texlive-thumbs
 Version:	33134
-Release:	1
+Release:	2
 Summary:	Create thumb indexes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumbs
