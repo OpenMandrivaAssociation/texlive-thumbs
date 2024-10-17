@@ -3,7 +3,7 @@ Version:	33134
 Release:	2
 Summary:	Create thumb indexes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/thumbs
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/thumbs
 License:	LPPL1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumbs.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/thumbs.doc.r%{version}.tar.xz
